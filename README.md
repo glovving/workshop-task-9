@@ -1,6 +1,6 @@
 # workshop-task-9
 # Live Video Capture
-Link to completed website here -> (add page)
+Link to completed website here -> (https://glovving.github.io/workshop-task-9/)
 
 ## Goals for this workshop
 - Make an experimental 'smart mirror' using live video capture.
