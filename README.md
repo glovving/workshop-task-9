@@ -82,6 +82,35 @@ left = blur, middle = erod, right = posterize.
 
 <img width="301" alt="posterize_effect_rshape" src="https://github.com/user-attachments/assets/998c0255-c29d-4f22-8e08-c6ef4dee4399" />
 
+### Adding text and final touches
+
+My live video feed was working as I wanted it to now.
+I added some text to the screen:
+
+<img width="380" alt="text_added_code" src="https://github.com/user-attachments/assets/a7f727ef-4e4a-48db-8451-8599c2ad405b" />
+
+And moved my canvas into the middle of the screen like a real mirror:
+
+<img width="380" alt="canvas_pos" src="https://github.com/user-attachments/assets/ddbf467f-94ce-4916-994f-0f15cee803e3" />
+
+<img width="808" alt="mirror" src="https://github.com/user-attachments/assets/5dcfedf1-8df4-473d-8fe1-d2c53319d829" />
+
+I also added a song:
+
+<img width="194" alt="song_loop_added" src="https://github.com/user-attachments/assets/7663a8ec-544a-4fbf-8f0f-72a45f21ff9c" />
+
+Link to the song -> (https://www.youtube.com/watch?v=I8KmHPct_es), I am not the creator of the song, it belongs to Bogdan Razynski.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
